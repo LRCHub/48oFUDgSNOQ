@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "宵の明星",
+  "base_artist": "Eve",
+  "createdAt": "2026-02-14T08:03:55.893498Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "宵の明星",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_宵の明星_Eve.txt"
+    }
+  ]
+}
